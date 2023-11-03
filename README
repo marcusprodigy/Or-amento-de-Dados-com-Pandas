@@ -1,4 +1,4 @@
-Descrição:
+
 O script em Python foi desenvolvido para permitir a criação, consulta e gerenciamento de orçamentos de dados utilizando a poderosa biblioteca Pandas. 
 Ele oferece funcionalidades para carregar dados, realizar consultas, análises e gerar orçamentos com base nas informações contidas nos conjuntos de dados.
 
