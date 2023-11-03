@@ -1,0 +1,20 @@
+Descrição:
+O script em Python foi desenvolvido para permitir a criação, consulta e gerenciamento de orçamentos de dados utilizando a poderosa biblioteca Pandas. 
+Ele oferece funcionalidades para carregar dados, realizar consultas, análises e gerar orçamentos com base nas informações contidas nos conjuntos de dados.
+
+Funcionalidades:
+
+Leitura de Dados: Utiliza o Pandas para carregar diferentes tipos de conjuntos de dados (CSV, Excel, JSON, etc.).
+
+Consulta de Dados: Permite consultas por meio de funções que possibilitam filtrar, selecionar e extrair informações específicas dos dados carregados.
+
+Análise Estatística: Utiliza as funcionalidades do Pandas para gerar estatísticas descritivas, como média, mediana, desvio padrão, entre outros.
+
+Criação de Orçamentos: Utiliza os dados carregados para criar orçamentos baseados em diferentes critérios e parâmetros definidos.
+
+Exportação e Importação de Dados: Permite exportar os orçamentos gerados para formatos comuns (CSV, Excel, etc.) e também importar novos dados para análise.
+
+Dependências:
+
+Python 3.x
+Biblioteca Pandas
